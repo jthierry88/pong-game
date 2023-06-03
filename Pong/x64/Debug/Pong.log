@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Apps\pong\Pong\Pong\main.cpp(51,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Apps\pong\Pong\Pong\main.cpp(57,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Apps\pong\Pong\Pong\main.cpp(58,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Apps\pong\Pong\Pong\main.cpp(134,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Apps\pong\Pong\Pong\main.cpp(135,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Apps\pong\Pong\Pong\main.cpp(139,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Apps\pong\Pong\Pong\main.cpp(140,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong.vcxproj -> C:\Apps\pong\Pong\x64\Debug\Pong.exe

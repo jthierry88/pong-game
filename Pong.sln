@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pong", "Pong\Pong.vcxproj", "{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Debug|Win32.Build.0 = Debug|Win32
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Debug|x64.ActiveCfg = Debug|x64
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Debug|x64.Build.0 = Debug|x64
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Debug|x86.Build.0 = Debug|Win32
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Release|Win32.ActiveCfg = Release|Win32
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Release|Win32.Build.0 = Release|Win32
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Release|x64.ActiveCfg = Release|x64
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Release|x64.Build.0 = Release|x64
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Release|x86.ActiveCfg = Release|Win32
+		{FD1CD2AE-1867-42E1-8C14-41EF13F3112E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5571003-86DB-4493-88D6-8F35D524C731}
+	EndGlobalSection
+EndGlobal
